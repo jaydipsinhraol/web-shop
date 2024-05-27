@@ -1,4 +1,4 @@
-# Web Shop NestJS App
+# Web Shop NestJS App [ DEMO ]
 This project is a web shop built with NestJS, utilizing Docker and Docker Compose for containerization. The web app's API documentation is provided through Swagger.
 
 ## Prerequisites
